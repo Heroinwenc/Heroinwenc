@@ -4,8 +4,8 @@
   
 <h1> ❔ About </h1>
   <p> 🏷 My name is Ömer </p>
-  <p> 🤓 I am destkop, Blockchain and Web developer </p>
-  <p> 🏳 I live in Turkey </p>
+  <p> 🤓 I am a Windows, Web and Blockchain Developer </p>
+  <p> 🏳 I live in <a href="https://tr.wikipedia.org/wiki/Mersin">İcel / Turkey</a></p>
   <p> 🖥 Favorite programming language <a href="https://tr.wikipedia.org/wiki/C_Sharp"> C# </a> </p>
 
 
