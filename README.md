@@ -6,7 +6,7 @@
   <p> 🏷 My name is Ömer </p>
   <p> 🤓 I am a Windows, Web and Blockchain Developer </p>
   <p> 🏳 I live in <a href="https://tr.wikipedia.org/wiki/Mersin">İcel / Turkey</a></p>
-  <p> 🖥 Favorite programming language <a href="https://tr.wikipedia.org/wiki/C_Sharp"> C# </a> </p>
+  <p> 🖥 Favorite programming language <a href="https://en.wikipedia.org/wiki/JavaScript"> Js </a> </p>
 
 
 <h1> ✍ Technologies I use </h1>
