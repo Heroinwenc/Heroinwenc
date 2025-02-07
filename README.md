@@ -10,7 +10,7 @@
 
 
 <h1> ✍ Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=blender,bootstrap,wordpress,visualstudio,rust,php,dotnet,js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discordjs,discord&theme=dark" />
+<center><img src="https://skillicons.dev/icons?i=blender,bootstrap,wordpress,visualstudio,rust,php,dotnet,js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discordjs,discord&theme=dark"/></center>
 <h1> 📈 My stats </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=Heroinwenc&show_icons=true&theme=dark" />
 
