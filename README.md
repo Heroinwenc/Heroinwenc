@@ -1,18 +1,54 @@
-<div align="center">
-<h1> 👋 Hi, I’m @heroinwenc </h1>
-<p> A high school student trying to gradually learn to code ❤ </p>
-  
-<h1> ❔ About </h1>
-  <p> 🏷 My name is Ömer </p>
-  <p> 🤓 I am a Windows, Web and Blockchain Developer </p>
-  <p> 🏳 I live in <a href="https://tr.wikipedia.org/wiki/Mersin">İcel / Turkey</a></p>
-  <p> 🖥 Favorite programming language <a href="https://en.wikipedia.org/wiki/JavaScript"> Js </a> </p>
+<div class="container text-center section fade-up">
+  <h1>👋 Hi, I’m <strong>@heroinwenc</strong></h1>
+  <p class="lead">A high school student trying to gradually learn to code ❤</p>
+</div>
 
+<div class="container section fade-up">
+  <h2 class="text-center mb-4">❔ About</h2>
+  <div class="row justify-content-center">
+    <div class="col-md-6">
+      <ul class="list-group list-group-flush bg-transparent">
+        <li class="list-group-item bg-transparent text-light">
+          <i class="fa-solid fa-id-card icon"></i>My name is <strong>Ömer</strong>
+        </li>
+        <li class="list-group-item bg-transparent text-light">
+          <i class="fa-solid fa-code icon"></i>I'm a Windows, Web, and Blockchain Developer
+        </li>
+        <li class="list-group-item bg-transparent text-light">
+          <i class="fa-solid fa-location-dot icon"></i>I live in <a href="https://tr.wikipedia.org/wiki/Mersin">İçel / Turkey</a>
+        </li>
+        <li class="list-group-item bg-transparent text-light">
+          <i class="fa-brands fa-js icon"></i>Favorite language: <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-<h1> ✍ Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=blender,bootstrap,wordpress,visualstudio,rust,php,dotnet,js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discordjs,discord&theme=dark"/>
-<h1> 📈 My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=Heroinwenc&show_icons=true&theme=dark" />
+<div class="container section fade-up text-center">
+  <h2>✍ Technologies I use</h2>
+  <img src="https://skillicons.dev/icons?i=blender,bootstrap,wordpress,visualstudio,rust,php,dotnet,js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discordjs,discord&theme=dark" class="img-fluid mt-4" />
+</div>
 
-<h1> 💎 My achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=Heroinwenc&theme=onedark" />
+<div class="container section fade-up text-center">
+  <h2>📈 My Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Heroinwenc&show_icons=true&theme=dark" class="img-fluid mt-4" />
+</div>
+
+<div class="container section fade-up text-center">
+  <h2>💎 My Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Heroinwenc&theme=onedark" class="img-fluid mt-4" />
+</div>
+
+<script>
+  // Scroll animasyonları
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+      }
+    });
+  });
+
+  document.querySelectorAll('.fade-up').forEach(el => observer.observe(el));
+</script>
