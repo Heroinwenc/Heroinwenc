@@ -39,16 +39,3 @@
   <h2>💎 My Achievements</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=Heroinwenc&theme=onedark" class="img-fluid mt-4" />
 </div>
-
-<script>
-  // Scroll animasyonları
-  const observer = new IntersectionObserver(entries => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        entry.target.classList.add('visible');
-      }
-    });
-  });
-
-  document.querySelectorAll('.fade-up').forEach(el => observer.observe(el));
-</script>
