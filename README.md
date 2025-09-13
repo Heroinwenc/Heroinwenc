@@ -15,7 +15,7 @@
           <i class="fa-solid fa-code icon"></i>I'm a Windows, Web, and Blockchain Developer
         </li>
         <li class="list-group-item bg-transparent text-light">
-          <i class="fa-solid fa-location-dot icon"></i>I live in <a href="https://tr.wikipedia.org/wiki/Mersin">İçel / Turkey</a>
+          <i class="fa-solid fa-location-dot icon"></i>I live in <a href="https://tr.wikipedia.org/wiki/Mersin">Mersin / Turkey</a>
         </li>
         <li class="list-group-item bg-transparent text-light">
           <i class="fa-brands fa-js icon"></i>Favorite language: <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>
